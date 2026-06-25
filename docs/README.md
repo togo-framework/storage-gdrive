@@ -23,8 +23,8 @@ Environment variables read by this plugin (extracted from the source — see the
 
 | Env var |
 |---|
-| `GDRIVE_FOLDER_ID"` |
-| `GOOGLE_APPLICATION_CREDENTIALS"` |
+| `GDRIVE_FOLDER_ID` |
+| `GOOGLE_APPLICATION_CREDENTIALS` |
 
 ## Usage
 
